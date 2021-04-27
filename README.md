@@ -1,6 +1,7 @@
 # Projet-Babylon
-# Author : AZDOUZ Noureddine
-# Client : BUFFA Michel
+
+Author : AZDOUZ Noureddine
+Client : BUFFA Michel
 
 Description : 
 L'objectif prévu était d'améliorer le tp4_exemple3 en remplaçant le tank par un héros "dude" et en ajoutant un système de score et niveau en fonction du nombre de dude ennemi éliminés.
